@@ -1,2 +1,4 @@
 # pythonjueves5
-tuplas y diccionarios
+### tuplas y diccionarios
+
+#### Programado por: Daniel Ospina
